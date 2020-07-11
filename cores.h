@@ -1,0 +1,12 @@
+void padrao();
+void negrito();
+void italico();
+void sublinhado();
+void preto();
+void vermelho();
+void laranja();
+void verde();
+void azul();
+void roxo();
+void azul_claro();
+void cinza();
